@@ -84,13 +84,13 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/345ca8a8f878ae82e0c6c-6bf0c711a588e2d303.jpg"
+    "START_IMG_URL", "https://graph.org/file/e1902ec72ac5b0f71cb8c-bc7a7f6a3c5fc05863.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/c532ea0e408d52b2648ff-8f20a767f1ca081619.jpg"
+    "PING_IMG_URL", "https://graph.org/file/e1902ec72ac5b0f71cb8c-bc7a7f6a3c5fc05863.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/c532ea0e408d52b2648ff-8f20a767f1ca081619.jpg"
-STATS_IMG_URL = "https://graph.org/file/c532ea0e408d52b2648ff-8f20a767f1ca081619.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/e1902ec72ac5b0f71cb8c-bc7a7f6a3c5fc05863.jpg"
+STATS_IMG_URL = "https://graph.org/file/e1902ec72ac5b0f71cb8c-bc7a7f6a3c5fc05863.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/c532ea0e408d52b2648ff-8f20a767f1ca081619.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/c532ea0e408d52b2648ff-8f20a767f1ca081619.jpg"
 STREAM_IMG_URL = "https://graph.org/file/345ca8a8f878ae82e0c6c-6bf0c711a588e2d303.jpg"
