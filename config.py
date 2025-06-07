@@ -35,7 +35,7 @@ API_KEY = getenv("API_KEY", None) # youtube song api key, generate free key or b
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/shizukamusicbot1/AviaxMusictopten",
+    "https://github.com/shizukaofficial/Aviax_shizuka_music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
